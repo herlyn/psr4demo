@@ -1,0 +1,10 @@
+{
+    "name": "herlyn/psr4demo",
+    "authors": [
+        {
+            "name": "Herlyn Mae Abareta",
+            "email": "herlyn.l@digitalroominc.com"
+        }
+    ],
+    "require": {}
+}
